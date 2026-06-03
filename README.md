@@ -1,0 +1,1 @@
+## Folder containing [Ultimate git course](https://codewithmosh.com/p/the-ultimate-git-course) learning course materials from the lecturer Mosh Hamedani [Code With Mosh](https://members.codewithmosh.com/courses)
